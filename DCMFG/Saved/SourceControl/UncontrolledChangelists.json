@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/DCMFG/DCMFG/DCMFG/Content/Custom_Characters/BP_PrototypeCharacter.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/ActorComponents/AC_PlayerController.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/Input/Actions/IA_Hit.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/Input/IMC_Default.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/Input/Actions/IA_SwitchLeft.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/Input/Actions/IA_SwitchRight.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/ActorComponents/AC_AnimationController.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/Custom_Input/BPI_InputListener.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/ActorComponents/AC_ComboController.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/E_Directions.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/Attacks/S_AttackData.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/I_DirectionListener.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/Combat/I_DirectionListener.uasset",
+				"E:/DCMFG/DCMFG/DCMFG/Content/ActorComponents/AC_Direction.uasset"
+			]
+		}
+	]
+}
