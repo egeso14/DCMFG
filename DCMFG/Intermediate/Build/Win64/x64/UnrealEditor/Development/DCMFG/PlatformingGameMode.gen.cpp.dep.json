@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dcmfg\\dcmfg\\dcmfg\\intermediate\\build\\win64\\unrealeditor\\inc\\dcmfg\\uht\\platforminggamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dcmfg\\dcmfg\\dcmfg\\intermediate\\build\\win64\\x64\\dcmfgeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dcmfg\\dcmfg\\dcmfg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dcmfg\\definitions.dcmfg.h",
+            "d:\\dcmfg\\dcmfg\\dcmfg\\source\\dcmfg\\variant_platforming\\platforminggamemode.h",
+            "d:\\ue5_desktop\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue5_desktop\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue5_desktop\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue5_desktop\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\dcmfg\\dcmfg\\dcmfg\\intermediate\\build\\win64\\unrealeditor\\inc\\dcmfg\\uht\\platforminggamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

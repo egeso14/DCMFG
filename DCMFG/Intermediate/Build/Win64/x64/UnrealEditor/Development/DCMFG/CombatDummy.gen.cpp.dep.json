@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dcmfg\\dcmfg\\dcmfg\\intermediate\\build\\win64\\unrealeditor\\inc\\dcmfg\\uht\\combatdummy.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dcmfg\\dcmfg\\dcmfg\\intermediate\\build\\win64\\x64\\dcmfgeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dcmfg\\dcmfg\\dcmfg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dcmfg\\definitions.dcmfg.h",
+            "d:\\dcmfg\\dcmfg\\dcmfg\\source\\dcmfg\\variant_combat\\combatdummy.h",
+            "d:\\dcmfg\\dcmfg\\dcmfg\\source\\dcmfg\\variant_combat\\combatdamageable.h",
+            "d:\\dcmfg\\dcmfg\\dcmfg\\intermediate\\build\\win64\\unrealeditor\\inc\\dcmfg\\uht\\combatdamageable.generated.h",
+            "d:\\dcmfg\\dcmfg\\dcmfg\\intermediate\\build\\win64\\unrealeditor\\inc\\dcmfg\\uht\\combatdummy.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
