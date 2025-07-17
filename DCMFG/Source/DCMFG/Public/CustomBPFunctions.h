@@ -14,8 +14,8 @@ class DCMFG_API UCustomBPFunctions: public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 public:
-	UFUNCTION(BlueprintCallable, Category = "Custom")
+	UFUNCTION(BlueprintCallable, Category = "CustomBPFunctions")
 	static void GetNotifyTriggerDetails(FAnimNotifyEvent NotifyEvent, FName& TriggerName, double& TriggerTime);
-	UFUNCTION(BlueprintCallable, Category = "Custom")
+	UFUNCTION(BlueprintCallable, Category = "CustomBPFunctions")
 	static bool GetNotifiesFromMontage(UAnimMontage* Montage, TArray<FAnimNotifyEvent>& NotifyEvents);
 };
